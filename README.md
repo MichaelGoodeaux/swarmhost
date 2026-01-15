@@ -1,4 +1,4 @@
-# swarmhost-core
+# swarmhost
 Evolution of multiplayer game hosting - distributed, secure, and scalable
 
 ```mermaid
